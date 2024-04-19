@@ -1,0 +1,7 @@
+<Hero>
+    <X>100</X>
+    <Y>100</Y>
+    <Width>100</Width>
+    <Height>200</Height>
+    <SpritePath>Sprites/Hero.png</SpritePath>
+</Hero>
